@@ -34,7 +34,7 @@ I'm a passionate developer and CSE student from India, building web applications
 
 ## 📫 Let's Connect
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: narayan.ayush0701@gmail.com 
 - 🌐 Portfolio: [Coming Soon]
 
 ---
