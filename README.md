@@ -2,8 +2,13 @@
 
 **💻 Computer Science Student | 🛠️ Frontend Developer | 🚀 Tech Enthusiast**
 
-I'm a passionate developer and CSE student from India, building web applications and exploring the world of tech. I enjoy working with modern frameworks like **React**, using **Tailwind CSS** for design, and experimenting with APIs and new ideas.
+<h1 align="center">Hi 👋, I'm Ayush Narayan</h1>
+<h3 align="center">🚀 A passionate Computer Science Engineering student from Bihar, India</h3>
 
+- 🔭 I’m currently working on **React & Web Development Projects**
+- 💻 My GitHub: [Ayushnarayan123](https://github.com/Ayushnarayan123)
+- 📫 Contact me at: **narayan.ayush0701@gmail.com**
+- 🎓 Education: Govt Polytechnic Vaishali, CSE (2024-2027)
 ---
 
 ## 🚀 Projects
