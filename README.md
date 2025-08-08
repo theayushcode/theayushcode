@@ -8,9 +8,7 @@ I'm a passionate developer and CSE student from India, building web applications
 
 ## 🚀 Projects
 
-- 🎯 **Text Translator App** — Translate any text to your favorite language using RapidAPI and React.
-- 🔐 **Code Camouflage App** — Hide and decode source code across programming languages.
-- 🎲 **Random String Generator** — React app using `useEffect` and `useCallback`.
+- 🎯 **scientific calculator** — A scientific calculator is a device used to perform complex mathematical, scientific, and engineering calculations, including trigonometric, logarithmic, and exponential functions.
 
 👉 Check out more projects [here](https://github.com/theayushcode?tab=repositories)
 
