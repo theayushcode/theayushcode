@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ayush Narayan
+<h1 align="center"># 👋 Hi, I'm Ayush Narayan</h1>
 
-**💻 Computer Science Student | 🛠️ Frontend Developer | 🚀 Tech Enthusiast**
+<h1 align="center">**| 🛠️ Frontend Developer | 🚀 Tech Enthusiast**</h1>
 
 <h3 align="center">🚀 A passionate Computer Science Engineering student from Bihar, India</h3>
 
