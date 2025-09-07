@@ -33,13 +33,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theayushcode&layout=compact&theme=tokyonight)
 
 ---
-### 📈 GitHub Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theayushcode&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 📫 Let's Connect
 
 - 📧 Email: narayan.ayush0701@gmail.com 
-- 🌐 Portfolio: [Coming Soon]
+  
 
 ---
 
