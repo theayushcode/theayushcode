@@ -29,7 +29,7 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
 - 🌱 **Learning:** Data Science concepts, advanced Python, and backend workflows.
 - 💼 **Experience:** Former Python Programming Intern at NIELIT Muzaffarpur & Data Science Intern at NIELIT Patna.
 - 💬 **Ask me about:** HTML, CSS, JavaScript, React, and Python programming.
-
+ 
 ---
 
 ## 🛠️ Tech Stack & Tools
