@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itz-rajkeshav/readme/main/banner3.gif" alt="Ayush Narayan Animated Banner" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ayush+Narayan;Frontend+Developer;CSE+Student+%7C+Open+Source+Enthusiast;React+%7C+Tailwind+%7C+Python" alt="Typing SVG" />
@@ -41,15 +39,6 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c,java,php,mysql,git,github,vscode,eclipse&perline=7" />
   </a>
 </p>
-
----
-
-## 🚀 Highlighted Projects
-
-* 🌐 **[Google Clone](https://github.com/theayushcode/clone)** - A clean, responsive Google clone built using **Vite + React** and styled beautifully with **Tailwind CSS**.
-* 📱 **[Amazon Clone](https://github.com/theayushcode/Amazon_Clone)** - Mimics the core frontend structure and basic functionality of Amazon's website using **HTML, CSS, and JS**.
-* 🧮 **[Scientific Calculator](https://github.com/theayushcode/Scientific-calculator)** - A web-based responsive scientific calculator with a clean UI.
-* 💼 **[Personal Portfolio](https://github.com/theayushcode/My_portfolio)** - My interactive web portfolio to showcase my core technical skills and updates.
 
 ---
 
