@@ -42,22 +42,20 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://stats.justcalldep.vercel.app/api?username=TheAyushCode&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Stats" />
+  <img src="https://stats.justcalldep.vercel.app/api/top-langs?username=TheAyushCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheAyushCode&show_icons=true&theme=tokyonight&hide_border=true&cache_bypass=true" alt="Ayush's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAyushCode&layout=compact&theme=tokyonight&hide_border=true&cache_bypass=true" alt="Top Langs" />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=TheAyushCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=TheAyushCode&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAyushCode&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAyushCode&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
