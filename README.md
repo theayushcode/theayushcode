@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ayush+Narayan;Frontend+Developer;CSE+Student+%7C+Open+Source+Enthusiast;React+%7C+Tailwind+%7C+Python" alt="Typing SVG" />
 </p>
@@ -17,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theayushcode&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge&logo=starship&logoColor=white" />
-</p> 
+  <img src="https://komarev.com/ghpvc/?username=TheAyushCode&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge&logo=starship&logoColor=white" />
+</p>
 
 ---
 
@@ -29,7 +27,7 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
 - 🌱 **Learning:** Data Science concepts, advanced Python, and backend workflows.
 - 💼 **Experience:** Former Python Programming Intern at NIELIT Muzaffarpur & Data Science Intern at NIELIT Patna.
 - 💬 **Ask me about:** HTML, CSS, JavaScript, React, and Python programming.
- 
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -46,25 +44,28 @@ I’m **Ayush Narayan**, a passionate Computer Science Engineering student curre
 
 <div align="center">
 
-[![Ayush's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=theayushcode&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/theayushcode)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=theayushcode&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/theayushcode)
+<img src="https://github-readme-stats.vercel.app/api?username=TheAyushCode&show_icons=true&theme=tokyonight&hide_border=true&cache_bypass=true" alt="Ayush's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAyushCode&layout=compact&theme=tokyonight&hide_border=true&cache_bypass=true" alt="Top Langs" />
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=theayushcode&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-<br/>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theayushcode&theme=github-dark&hide_border=true)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=TheAyushCode&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAyushCode&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+
 </div>
+
 ---
+
 <h4 align="center">My Contribution Graph 🐍</h4>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theayushcode/theayushcode/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theayushcode/theayushcode/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theayushcode/theayushcode/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheAyushCode/TheAyushCode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheAyushCode/TheAyushCode/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheAyushCode/TheAyushCode/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-----
-
-
